@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kineplan-v2';
+const CACHE_NAME = 'kineplan-v5';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
